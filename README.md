@@ -1,142 +1,164 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:00ff88,100:050505&height=220&section=header&text=CYBERSECURITY&fontSize=55&fontColor=00ff88&animation=twinkling&fontAlignY=35&desc=Security%20Research%20%7C%20Ethical%20Hacking%20%7C%20Red%20Team&descAlignY=58&descColor=ffffff&descSize=18"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=700&color=00FF88&center=true&vCenter=true&width=850&lines=%24+whoami;Cybersecurity+Researcher;Ethical+Hacker;Penetration+Testing+Enthusiast;Web+Security+Researcher;CTF+Player;Security+Automation+Developer;Always+Learning+%F0%9F%94%90" /> <br> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00ff88&label=PROFILE+VISITORS"/> </div>
-GitHub - https://github.com/rishabhh077
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:071a12,75:00ff88,100:050505&height=230&section=header&text=RISHABH%20PRAJAPATI&fontSize=48&fontColor=00ff88&animation=twinkling&fontAlignY=32&desc=CYBERSECURITY%20%7C%20ETHICAL%20HACKING%20%7C%20PENETRATION%20TESTING&descAlignY=55&descColor=ffffff&descSize=17" width="100%"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2300&pause=650&color=00FF88&center=true&vCenter=true&width=900&lines=%24+whoami;Cybersecurity+Researcher;Ethical+Hacker;Penetration+Tester;Web+Security+Enthusiast;CTF+Player;OSINT+Explorer;Security+%26+Web+Developer;Breaking+systems+to+understand+how+to+secure+them." alt="Typing Animation"/> <br> <a href="https://github.com/rishabhh077"> <img src="https://img.shields.io/badge/GitHub-rishabhh077-050505?style=for-the-badge&logo=github&logoColor=00ff88" alt="GitHub"/> </a> <a href="https://linkedin.com/in/rishabhh077"> <img src="https://img.shields.io/badge/LinkedIn-Rishabh%20Prajapati-050505?style=for-the-badge&logo=linkedin&logoColor=00ff88" alt="LinkedIn"/> </a> <a href="https://tryhackme.com/p/rishabhh077"> <img src="https://img.shields.io/badge/TryHackMe-rishabhh077-050505?style=for-the-badge&logo=tryhackme&logoColor=ff0000" alt="TryHackMe"/> </a> <a href="https://app.hackthebox.com/profile/overview"> <img src="https://img.shields.io/badge/Hack%20The%20Box-rishabhh077-050505?style=for-the-badge&logo=hackthebox&logoColor=9fef00" alt="Hack The Box"/> </a>
+<br><br>
 
-. <img width="31" height="31" alt="image" src="https://github.com/user-attachments/assets/44c511f0-67ca-490b-ba1e-e7c4996c1b26" />
- Name       : Rishabh Prajapati
-<img width="31" height="31" alt="image" src="https://github.com/user-attachments/assets/a0601fa2-5593-4654-81bd-0b65cff0bd58" />
- Role       : Cybersecurity Researcher
-<img width="31" height="31" alt="image" src="https://github.com/user-attachments/assets/38f5e7a5-a3f5-4025-848f-8dd68849fcfd" />
- Specialty  : Ethical Hacking & Security
-<img width="31" height="31" alt="image" src="https://github.com/user-attachments/assets/6fe824da-257e-4957-a3e7-0b25a519306e" />
- Environment: Linux / Kali Linux
-<img width="31" height="31" alt="image" src="https://github.com/user-attachments/assets/6e7e3a58-1e30-449a-98ea-72de968566d3" />
- Languages  : Python / Bash / JavaScript / SQL
-<img width="31" height="31" alt="image" src="https://github.com/user-attachments/assets/185b87d2-f097-42e4-9843-429c733ab76b" />
- Focus      : Offensive & Defensive Security
- Status     : ONLINE
- Mission    : Learn • Research • Build • Secure
+<img src="https://komarev.com/ghpvc/?username=rishabhh077&style=for-the-badge&color=00ff88&label=PROFILE+VISITORS" alt="Profile Views"/> </div>
+> whoami
+┌──[rishabhh077@github]─[~/profile]
+└─$ whoami
 
+Rishabh Prajapati
+
+┌──[rishabhh077@github]─[~/profile]
+└─$ cat identity.txt
+
+[+] Role       : Cybersecurity Researcher
+[+] Specialty  : Ethical Hacking / Penetration Testing
+[+] Location   : Greater Delhi
+[+] Environment: Linux / Kali Linux
+[+] Languages  : HTML / CSS / JavaScript / C / Python
+[+] Focus      : Web Security / Network Security / OSINT
+[+] Status     : ONLINE
+[+] Mission    : Learn • Research • Build • Secure
+
+<div align="center">
+Breaking systems to understand how to secure them.
+</div>
 > cat about_me.txt
+I'm Rishabh Prajapati, a cybersecurity researcher, ethical hacking enthusiast, penetration testing learner, and web developer interested in understanding how modern systems work and how they can be secured.
 
-I'm a cybersecurity enthusiast focused on understanding how modern systems work, identifying vulnerabilities in authorized environments, and developing practical security skills.
+My interests include Web Security, CTFs, OSINT, Network Security, Penetration Testing, Linux, Networking, and Security-focused development.
 
-My interests include penetration testing, web application security, network security, vulnerability research, CTFs, Linux security, and security automation.
+I enjoy combining development and cybersecurity to build practical projects, experiment in controlled environments, solve security challenges, and continuously expand my technical knowledge.
 
-                    ┌─────────────────────┐
-                    │   SECURITY MINDSET   │
-                    └──────────┬──────────┘
-                               │
-             ┌─────────────────┼─────────────────┐
-             ▼                 ▼                 ▼
-          OFFENSE           RESEARCH          DEFENSE
-             │                 │                 │
-       Recon / Testing     CVE / Analysis    Detection
-       Web Security        Reverse Eng.      Hardening
-       Network Security    Automation        Monitoring
+                         ┌───────────────────────┐
+                         │    SECURITY MINDSET    │
+                         └───────────┬───────────┘
+                                     │
+              ┌──────────────────────┼──────────────────────┐
+              │                      │                      │
+              ▼                      ▼                      ▼
+           OFFENSE                RESEARCH                DEFENSE
+              │                      │                      │
+        Recon / Testing         Vulnerability          Monitoring
+        Web Security            Analysis                Hardening
+        Network Security        OSINT                   Secure Dev
+        Pentesting              CTF Research            Awareness
 
-> ./arsenal --list
-🛡️ Security
-<div align="center"> <img src="https://img.shields.io/badge/Penetration%20Testing-050505?style=for-the-badge&logoColor=00ff88&labelColor=050505&color=00ff88"/> <img src="https://img.shields.io/badge/Web%20Security-050505?style=for-the-badge&color=00ff88"/> <img src="https://img.shields.io/badge/Network%20Security-050505?style=for-the-badge&color=00ff88"/> <img src="https://img.shields.io/badge/Vulnerability%20Research-050505?style=for-the-badge&color=00ff88"/> <img src="https://img.shields.io/badge/OSINT-050505?style=for-the-badge&color=00ff88"/> <img src="https://img.shields.io/badge/CTF-050505?style=for-the-badge&color=00ff88"/> </div>
-💻 Development
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,bash,js,html,css,sql,git,docker,linux&theme=dark"/> </div>
-🔧 Security Tools
-<div align="center"> <img src="https://img.shields.io/badge/Nmap-050505?style=for-the-badge&logoColor=00ff88&color=00ff88"/> <img src="https://img.shields.io/badge/Burp%20Suite-050505?style=for-the-badge&color=ff6633"/> <img src="https://img.shields.io/badge/Wireshark-050505?style=for-the-badge&logo=wireshark&color=1679a7"/> <img src="https://img.shields.io/badge/Metasploit-050505?style=for-the-badge&color=00ff88"/> <img src="https://img.shields.io/badge/Gobuster-050505?style=for-the-badge&color=00ff88"/> <img src="https://img.shields.io/badge/ffuf-050505?style=for-the-badge&color=00ff88"/> </div>
+> ./arsenal --security
+<div align="center"> <img src="https://img.shields.io/badge/Web%20Security-050505?style=for-the-badge&logo=owasp&logoColor=00ff88" alt="Web Security"/> <img src="https://img.shields.io/badge/Penetration%20Testing-050505?style=for-the-badge&logoColor=00ff88" alt="Penetration Testing"/> <img src="https://img.shields.io/badge/Network%20Security-050505?style=for-the-badge&logoColor=00ff88" alt="Network Security"/> <img src="https://img.shields.io/badge/OSINT-050505?style=for-the-badge&logoColor=00ff88" alt="OSINT"/> <img src="https://img.shields.io/badge/CTF-050505?style=for-the-badge&logoColor=00ff88" alt="CTF"/>
+<br><br>
+
+<img src="https://img.shields.io/badge/Nmap-050505?style=for-the-badge&logoColor=00ff88" alt="Nmap"/> <img src="https://img.shields.io/badge/Wireshark-050505?style=for-the-badge&logo=wireshark&logoColor=1679A7" alt="Wireshark"/> <img src="https://img.shields.io/badge/Metasploit-050505?style=for-the-badge&logoColor=00ff88" alt="Metasploit"/> <img src="https://img.shields.io/badge/ffuf-050505?style=for-the-badge&logoColor=00ff88" alt="ffuf"/> <img src="https://img.shields.io/badge/Brute%20Force-050505?style=for-the-badge&logoColor=ff3333" alt="Brute Force"/> </div>
+> ./arsenal --development
+<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,c,python,linux,git,docker,mysql&theme=dark" alt="Development Skills"/>
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/> <img src="https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/> <img src="https://img.shields.io/badge/C-050505?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C"/> <img src="https://img.shields.io/badge/SQL-050505?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="SQL"/> <img src="https://img.shields.io/badge/Linux-050505?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/> <img src="https://img.shields.io/badge/Networking-050505?style=for-the-badge&logoColor=00ff88" alt="Networking"/> </div>
 > ./current_mission
-╔══════════════════════════════════════════════════════╗
-║                 CURRENT MISSION                      ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║  [██████████████████████░░░] 90%  Web Security       ║
-║  [██████████████████░░░░░░░] 75%  Network Security  ║
-║  [████████████████░░░░░░░░░] 70%  Linux Security    ║
-║  [██████████████░░░░░░░░░░░] 60%  Pentesting        ║
-║  [████████████░░░░░░░░░░░░░] 55%  Research         ║
-║  [██████████░░░░░░░░░░░░░░░] 45%  Automation       ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════╗
+║                     CURRENT MISSION                        ║
+╠════════════════════════════════════════════════════════════╣
+║                                                            ║
+║  [██████████████████████░░]  Web Security                  ║
+║  [████████████████████░░░░]  Network Security              ║
+║  [██████████████████░░░░░░]  Linux Security                ║
+║  [████████████████░░░░░░░░]  Penetration Testing           ║
+║  [██████████████░░░░░░░░░░]  OSINT                         ║
+║  [██████████████░░░░░░░░░░]  Security Automation           ║
+║                                                            ║
+║                    STATUS: LEARNING                        ║
+╚════════════════════════════════════════════════════════════╝
 
 > ls -la ~/projects
 <table> <tr> <td width="50%" valign="top">
-🔴 security-toolkit
+🌊 BlueNexus
+3D Ocean Visualization
+A 3D Ocean Visualization project developed for Smart India Hackathon (SIH).
 
-Security-focused Python utilities for learning, automation, reconnaissance, and defensive analysis.
+<a href="https://github.com/rishabhh077/BlueNexus-SIH-2026"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-00ff88?style=for-the-badge&logo=github&logoColor=050505" alt="View BlueNexus"/> </a> </td> <td width="50%" valign="top">
+🔐 Password Strength Analyzer
+A security-focused project for analyzing password strength and encouraging stronger authentication practices.
 
-Python Linux Networking
+<a href="https://github.com/rishabhh077/password_strength_analyzer"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-00ff88?style=for-the-badge&logo=github&logoColor=050505" alt="View Password Strength Analyzer"/> </a> </td> </tr> <tr> <td width="50%" valign="top">
+🔑 Password Manager
+A password-management project focused on secure handling and organization of credentials.
 
-</td> <td width="50%" valign="top">
-🌐 web-security-lab
+<a href="https://github.com/rishabhh077/password_manager"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-00ff88?style=for-the-badge&logo=github&logoColor=050505" alt="View Password Manager"/> </a> </td> <td width="50%" valign="top">
+🧪 Security Research
+Exploring cybersecurity through practical experimentation, CTFs, security labs, and development projects.
 
-A controlled environment for studying common web application security concepts.
-
-Web HTTP OWASP
-
-</td> </tr> <tr> <td width="50%" valign="top">
-🛰️ network-research
-
-Educational network analysis and enumeration projects for authorized environments.
-
-Python TCP/IP Networking
-
-</td> <td width="50%" valign="top">
-🏴 ctf-writeups
-
-A collection of notes and solutions from legal cybersecurity labs and CTF challenges.
-
-Linux Web Crypto Forensics
-
-</td> </tr> </table>
+<a href="https://github.com/rishabhh077?tab=repositories"> <img src="https://img.shields.io/badge/ALL%20REPOSITORIES-ff3333?style=for-the-badge&logo=github&logoColor=ffffff" alt="All Repositories"/> </a> </td> </tr> </table>
 > ./roadmap.sh
-                         ┌───────────────┐
-                         │ CYBERSECURITY │
-                         └───────┬───────┘
-                                 │
-             ┌───────────────────┼───────────────────┐
-             ▼                   ▼                   ▼
-        NETWORKING              LINUX                WEB
-             │                   │                   │
-          TCP/IP                Bash               HTTP
-          DNS                   CLI                APIs
-          Firewalls             Processes          OWASP
-             │                   │                   │
-             └───────────────────┼───────────────────┘
-                                 ▼
-                       ┌───────────────────┐
-                       │ SECURITY TESTING  │
-                       └─────────┬─────────┘
-                                 ▼
-                    ┌────────────────────────┐
-                    │ VULNERABILITY RESEARCH │
-                    └────────────┬───────────┘
-                                 ▼
-                       ┌───────────────────┐
-                       │ SECURITY AUTOMATION│
-                       └───────────────────┘
+                         CYBERSECURITY
+                              │
+          ┌───────────────────┼───────────────────┐
+          │                   │                   │
+          ▼                   ▼                   ▼
+      NETWORKING              WEB                LINUX
+          │                   │                   │
+       TCP/IP               HTTP                Bash
+       DNS                  APIs                CLI
+       Firewalls            OWASP              Processes
+       Protocols            Sessions            Security
+          │                   │                   │
+          └───────────────────┼───────────────────┘
+                              │
+                              ▼
+                    ┌────────────────────┐
+                    │ SECURITY TESTING   │
+                    └─────────┬──────────┘
+                              │
+                              ▼
+                 ┌─────────────────────────┐
+                 │ VULNERABILITY RESEARCH  │
+                 └────────────┬────────────┘
+                              │
+                              ▼
+                    ┌───────────────────┐
+                    │ SECURITY AUTOMATION│
+                    └─────────┬─────────┘
+                              │
+                              ▼
+                     DEFENSIVE SECURITY
+
+> ./achievements
+<div align="center"> <img src="https://img.shields.io/badge/TECH%20CONTRIBUTOR-GSSoC%202025-00ff88?style=for-the-badge&logo=github&logoColor=050505" alt="GSSoC 2025"/> <img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-Apna%20College%202025-00ff88?style=for-the-badge&logo=googlechrome&logoColor=050505" alt="Apna College"/> <img src="https://img.shields.io/badge/SUPER%20CONTRIBUTOR-Hacktoberfest%202025-ff3333?style=for-the-badge&logo=github&logoColor=ffffff" alt="Hacktoberfest 2025"/> </div>
+> ./ctf --platforms
+<div align="center"> <a href="https://tryhackme.com/p/rishabhh077"> <img src="https://img.shields.io/badge/TryHackMe-PROFILE-ff0000?style=for-the-badge&logo=tryhackme&logoColor=ffffff" alt="TryHackMe"/> </a> <a href="https://app.hackthebox.com/profile/overview"> <img src="https://img.shields.io/badge/HACK%20THE%20BOX-PROFILE-9fef00?style=for-the-badge&logo=hackthebox&logoColor=050505" alt="Hack The Box"/> </a> </div>
+[+] Capture The Flag
+[+] Web Security Labs
+[+] Network Challenges
+[+] Linux Challenges
+[+] Security Research
+[+] Practical Learning
 
 > ./github_stats
-<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=050505&title_color=00ff88&icon_color=00ff88&text_color=ffffff&ring_color=00ff88"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=050505&title_color=00ff88&text_color=ffffff"/> </div>
-> ./activity
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=050505&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true"/> </div>
+<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=rishabhh077&show_icons=true&hide_border=true&bg_color=050505&title_color=00ff88&icon_color=00ff88&text_color=ffffff&ring_color=00ff88" alt="GitHub Stats"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhh077&layout=compact&hide_border=true&bg_color=050505&title_color=00ff88&text_color=ffffff" alt="Top Languages"/> </div>
+> ./activity --live
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhh077&bg_color=050505&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph"/> </div>
 > ./contribution_matrix
-<div align="center"> <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/rishabhh077/rishabhh077/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/> </div>
 > cat philosophy.txt
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│     THINK LIKE AN ATTACKER                               │
-│                    ↓                                     │
-│     UNDERSTAND THE VULNERABILITY                         │
-│                    ↓                                     │
-│     BUILD THE EXPERIMENT                                 │
-│                    ↓                                     │
-│     UNDERSTAND THE IMPACT                                │
-│                    ↓                                     │
-│     BUILD THE DEFENSE                                    │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║              THINK LIKE AN ATTACKER                        ║
+║                         ↓                                  ║
+║              UNDERSTAND THE SYSTEM                         ║
+║                         ↓                                  ║
+║              IDENTIFY THE WEAKNESS                         ║
+║                         ↓                                  ║
+║              BUILD THE EXPERIMENT                          ║
+║                         ↓                                  ║
+║              UNDERSTAND THE IMPACT                          ║
+║                         ↓                                  ║
+║              BUILD THE DEFENSE                             ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
 
-
-Learn. Research. Test. Understand. Secure.
-
-All security research and testing should be performed only against systems you own or have explicit authorization to assess.
+<div align="center">
+LEARN → RESEARCH → TEST → UNDERSTAND → SECURE
+</div>
+🔐 All security research and testing should be performed only against systems I own or have explicit authorization to assess.
 
 > ./learning
 [+] Web Application Security
@@ -144,149 +166,38 @@ All security research and testing should be performed only against systems you o
 [+] Linux Security
 [+] Penetration Testing
 [+] Vulnerability Research
+[+] OSINT
 [+] Security Automation
 [+] Digital Forensics
 [+] Capture The Flag
 [+] Secure Development
 
-> ./connect
-<div align="center"> <a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00ff88"/> </a> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"> <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00ff88"/> </a> </div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:00ff88,100:050505&height=120&section=footer&animation=twinkling"/>
-root@security:~$ echo "Stay curious. Stay ethical."
-
-🔐 BUILD • BREAK • UNDERSTAND • SECURE
-
-</div>> Solve CTF challenges
-> Study vulnerabilities
-> Improve defensive security
-> Document everything
-
-🔥 Featured Projects
-<table> <tr> <td width="50%">
-🔎 Security Toolkit
-
-A collection of Python/Bash utilities for security learning, reconnaissance, automation and defensive analysis.
-
-Tech: Python • Bash • Linux
-
-</td> <td width="50%">
-🌐 Web Security Lab
-
-Hands-on experiments for learning web application security in controlled environments.
-
-Topics: XSS • SQLi • Auth • Sessions
-
-</td> </tr> <tr> <td width="50%">
-🛰️ Network Scanner
-
-Educational network reconnaissance and service-enumeration project for authorized environments.
-
-Tech: Python • Networking
-
-</td> <td width="50%">
-🧪 CTF Writeups
-
-Notes and walkthroughs from cybersecurity labs and Capture The Flag challenges.
-
-Topics: Web • Crypto • Linux • Forensics
-
-</td> </tr> </table>
-🎯 Learning Roadmap
-                    CYBERSECURITY
-                         │
-          ┌──────────────┼──────────────┐
-          │              │              │
-       NETWORK          WEB           LINUX
-          │              │              │
-       TCP/IP          HTTP          Bash
-       DNS             APIs          PrivEsc
-       Firewalls       OWASP         Processes
-          │              │              │
-          └──────────────┼──────────────┘
-                         │
-                  PENETRATION TESTING
-                         │
-                  VULNERABILITY RESEARCH
-                         │
-                  SECURITY AUTOMATION
-                         │
-                  DEFENSIVE SECURITY
-
-🧰 Tools I Explore
-$ ls ~/security/tools
-
-Nmap
-Burp-Suite
-Wireshark
-Metasploit
-Gobuster
-ffuf
-Nikto
-John-the-Ripper
-Hashcat
-Git
-Docker
-
-📊 GitHub Activity
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" height="180"/> </div>
-🐍 Contribution Snake
-<div align="center"> <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/> </div>
-📡 Terminal Status
-╔══════════════════════════════════════════════╗
-║              SYSTEM STATUS                   ║
-╠══════════════════════════════════════════════╣
-║                                              ║
-║  [✓] Linux                                  ║
-║  [✓] Networking                             ║
-║  [✓] Python                                 ║
-║  [✓] Web Security                           ║
-║  [✓] Git                                    ║
-║  [~] Penetration Testing                    ║
-║  [~] Vulnerability Research                 ║
-║  [~] Advanced Security Engineering          ║
-║                                              ║
-║              STATUS: LEARNING               ║
-╚══════════════════════════════════════════════╝
-
-🏴‍☠️ Cybersecurity Philosophy
+> ./terminal_status
 <div align="center">
-LEARN → TEST → UNDERSTAND → SECURE
+╔══════════════════════════════════════════════════╗
+║                 SYSTEM STATUS                    ║
+╠══════════════════════════════════════════════════╣
+║                                                  ║
+║  [✓] Linux                                      ║
+║  [✓] Networking                                 ║
+║  [✓] Python                                     ║
+║  [✓] Web Development                            ║
+║  [✓] Web Security                               ║
+║  [✓] CTF                                        ║
+║  [✓] OSINT                                      ║
+║  [~] Penetration Testing                         ║
+║  [~] Vulnerability Research                      ║
+║  [~] Security Automation                         ║
+║                                                  ║
+║                 STATUS: ONLINE                   ║
+╚══════════════════════════════════════════════════╝
+
 </div>
+> ./connect
+<div align="center"> <a href="https://github.com/rishabhh077"> <img src="https://img.shields.io/badge/GITHUB-PROFILE-050505?style=for-the-badge&logo=github&logoColor=00ff88" alt="GitHub"/> </a> <a href="https://linkedin.com/in/rishabhh077"> <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-050505?style=for-the-badge&logo=linkedin&logoColor=00ff88" alt="LinkedIn"/> </a> <a href="https://tryhackme.com/p/rishabhh077"> <img src="https://img.shields.io/badge/TRYHACKME-PROFILE-050505?style=for-the-badge&logo=tryhackme&logoColor=ff0000" alt="TryHackMe"/> </a> <a href="https://app.hackthebox.com/profile/overview"> <img src="https://img.shields.io/badge/HACK%20THE%20BOX-PROFILE-050505?style=for-the-badge&logo=hackthebox&logoColor=9fef00" alt="Hack The Box"/> </a> </div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:071a12,75:00ff88,100:050505&height=150&section=footer&animation=twinkling" width="100%" alt="Footer"/>
+root@security:~$ echo "Stay curious. Stay ethical."
+🔐 BUILD • BREAK • UNDERSTAND • SECURE
+<sub>© Rishabh Prajapati • Cybersecurity Researcher</sub>
 
-I believe cybersecurity is about understanding systems deeply,
-thinking like an attacker, and using that knowledge responsibly
-to make systems more secure.
-
-🔐 All security testing should be performed only on systems you own
-or have explicit authorization to test.
-
-📚 Currently Learning
-
-🔐 Web Application Security
-
-🌐 Network Security
-
-🐧 Linux Security
-
-🧪 Penetration Testing
-
-🔎 Vulnerability Research
-
-🛡️ Defensive Security
-
-🤖 Security Automation
-
-🏴‍☠️ CTF Challenges
-
-🌐 Connect With Me
-<div align="center"> <a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41"/> </a> </div>
-<div align="center">
-┌───────────────────────────────────────────┐
-│                                           │
-│       "Security is a journey,             │
-│        not a destination."                │
-│                                           │
-└───────────────────────────────────────────┘
-
-⚡ Stay curious. Stay ethical. Keep learning.
 </div>
