@@ -1,62 +1,158 @@
-<div align="center">
-⚡ Hello Everyone
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Ethical+Hacker;Security+Researcher;Penetration+Testing+Learner;CTF+Player;Always+Learning+%F0%9F%94%90" alt="Typing SVG" /> <br> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge" alt="Profile views"/> </div>
-┌──────────────────────────────────────────────────────────────┐
-│                    CYBERSECURITY PROFILE                    │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  > Name       : Rishabh Prajapati                                   │
-│  > Role       : Cybersecurity Enthusiast                    │
-│  > Focus      : Ethical Hacking / Security Research         │
-│  > Environment: Mac / Linux / Kali Linux                          │
-│  > Mindset    : Learn • Break • Understand • Secure         │
-│  > Status     : [ ONLINE ]                                  │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:00ff88,100:050505&height=220&section=header&text=CYBERSECURITY&fontSize=55&fontColor=00ff88&animation=twinkling&fontAlignY=35&desc=Security%20Research%20%7C%20Ethical%20Hacking%20%7C%20Red%20Team&descAlignY=58&descColor=ffffff&descSize=18"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=700&color=00FF88&center=true&vCenter=true&width=850&lines=%24+whoami;Cybersecurity+Researcher;Ethical+Hacker;Penetration+Testing+Enthusiast;Web+Security+Researcher;CTF+Player;Security+Automation+Developer;Always+Learning+%F0%9F%94%90" /> <br> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00ff88&label=PROFILE+VISITORS"/> </div>
+> ./identity.sh
+┌──[[https://github.com/rishabhh077]─[~/profile]
+└─$ ./identity.sh
 
-🧠 Rishabh Prajapati
+[+] Name       : Rishabh Prajapati
+[+] Role       : Cybersecurity Researcher
+[+] Specialty  : Ethical Hacking & Security
+[+] Environment: Linux / Kali Linux
+[+] Languages  : Python / Bash / JavaScript / SQL
+[+] Focus      : Offensive & Defensive Security
+[+] Status     : ONLINE
+[+] Mission    : Learn • Research • Build • Secure
 
-Cybersecurity enthusiast focused on understanding
-how systems work, how vulnerabilities happen,
-and how they can be secured.
+> cat about_me.txt
 
-$ cat interests.txt
+I'm a cybersecurity enthusiast focused on understanding how modern systems work, identifying vulnerabilities in authorized environments, and developing practical security skills.
 
-[+] Ethical Hacking
-[+] Penetration Testing
+My interests include penetration testing, web application security, network security, vulnerability research, CTFs, Linux security, and security automation.
+
+                    ┌─────────────────────┐
+                    │   SECURITY MINDSET   │
+                    └──────────┬──────────┘
+                               │
+             ┌─────────────────┼─────────────────┐
+             ▼                 ▼                 ▼
+          OFFENSE           RESEARCH          DEFENSE
+             │                 │                 │
+       Recon / Testing     CVE / Analysis    Detection
+       Web Security        Reverse Eng.      Hardening
+       Network Security    Automation        Monitoring
+
+> ./arsenal --list
+🛡️ Security
+<div align="center"> <img src="https://img.shields.io/badge/Penetration%20Testing-050505?style=for-the-badge&logoColor=00ff88&labelColor=050505&color=00ff88"/> <img src="https://img.shields.io/badge/Web%20Security-050505?style=for-the-badge&color=00ff88"/> <img src="https://img.shields.io/badge/Network%20Security-050505?style=for-the-badge&color=00ff88"/> <img src="https://img.shields.io/badge/Vulnerability%20Research-050505?style=for-the-badge&color=00ff88"/> <img src="https://img.shields.io/badge/OSINT-050505?style=for-the-badge&color=00ff88"/> <img src="https://img.shields.io/badge/CTF-050505?style=for-the-badge&color=00ff88"/> </div>
+💻 Development
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,bash,js,html,css,sql,git,docker,linux&theme=dark"/> </div>
+🔧 Security Tools
+<div align="center"> <img src="https://img.shields.io/badge/Nmap-050505?style=for-the-badge&logoColor=00ff88&color=00ff88"/> <img src="https://img.shields.io/badge/Burp%20Suite-050505?style=for-the-badge&color=ff6633"/> <img src="https://img.shields.io/badge/Wireshark-050505?style=for-the-badge&logo=wireshark&color=1679a7"/> <img src="https://img.shields.io/badge/Metasploit-050505?style=for-the-badge&color=00ff88"/> <img src="https://img.shields.io/badge/Gobuster-050505?style=for-the-badge&color=00ff88"/> <img src="https://img.shields.io/badge/ffuf-050505?style=for-the-badge&color=00ff88"/> </div>
+> ./current_mission
+╔══════════════════════════════════════════════════════╗
+║                 CURRENT MISSION                      ║
+╠══════════════════════════════════════════════════════╣
+║                                                      ║
+║  [██████████████████████░░░] 90%  Web Security       ║
+║  [██████████████████░░░░░░░] 75%  Network Security  ║
+║  [████████████████░░░░░░░░░] 70%  Linux Security    ║
+║  [██████████████░░░░░░░░░░░] 60%  Pentesting        ║
+║  [████████████░░░░░░░░░░░░░] 55%  Research         ║
+║  [██████████░░░░░░░░░░░░░░░] 45%  Automation       ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+
+> ls -la ~/projects
+<table> <tr> <td width="50%" valign="top">
+🔴 security-toolkit
+
+Security-focused Python utilities for learning, automation, reconnaissance, and defensive analysis.
+
+Python Linux Networking
+
+</td> <td width="50%" valign="top">
+🌐 web-security-lab
+
+A controlled environment for studying common web application security concepts.
+
+Web HTTP OWASP
+
+</td> </tr> <tr> <td width="50%" valign="top">
+🛰️ network-research
+
+Educational network analysis and enumeration projects for authorized environments.
+
+Python TCP/IP Networking
+
+</td> <td width="50%" valign="top">
+🏴 ctf-writeups
+
+A collection of notes and solutions from legal cybersecurity labs and CTF challenges.
+
+Linux Web Crypto Forensics
+
+</td> </tr> </table>
+> ./roadmap.sh
+                         ┌───────────────┐
+                         │ CYBERSECURITY │
+                         └───────┬───────┘
+                                 │
+             ┌───────────────────┼───────────────────┐
+             ▼                   ▼                   ▼
+        NETWORKING              LINUX                WEB
+             │                   │                   │
+          TCP/IP                Bash               HTTP
+          DNS                   CLI                APIs
+          Firewalls             Processes          OWASP
+             │                   │                   │
+             └───────────────────┼───────────────────┘
+                                 ▼
+                       ┌───────────────────┐
+                       │ SECURITY TESTING  │
+                       └─────────┬─────────┘
+                                 ▼
+                    ┌────────────────────────┐
+                    │ VULNERABILITY RESEARCH │
+                    └────────────┬───────────┘
+                                 ▼
+                       ┌───────────────────┐
+                       │ SECURITY AUTOMATION│
+                       └───────────────────┘
+
+> ./github_stats
+<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=050505&title_color=00ff88&icon_color=00ff88&text_color=ffffff&ring_color=00ff88"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=050505&title_color=00ff88&text_color=ffffff"/> </div>
+> ./activity
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=050505&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true"/> </div>
+> ./contribution_matrix
+<div align="center"> <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/> </div>
+> cat philosophy.txt
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│     THINK LIKE AN ATTACKER                               │
+│                    ↓                                     │
+│     UNDERSTAND THE VULNERABILITY                         │
+│                    ↓                                     │
+│     BUILD THE EXPERIMENT                                 │
+│                    ↓                                     │
+│     UNDERSTAND THE IMPACT                                │
+│                    ↓                                     │
+│     BUILD THE DEFENSE                                    │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+
+
+Learn. Research. Test. Understand. Secure.
+
+All security research and testing should be performed only against systems you own or have explicit authorization to assess.
+
+> ./learning
 [+] Web Application Security
 [+] Network Security
+[+] Linux Security
+[+] Penetration Testing
 [+] Vulnerability Research
-[+] OSINT
-[+] CTFs
 [+] Security Automation
+[+] Digital Forensics
+[+] Capture The Flag
+[+] Secure Development
 
-🛡️ Cybersecurity Arsenal
-<div align="center">
+> ./connect
+<div align="center"> <a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00ff88"/> </a> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"> <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00ff88"/> </a> </div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:00ff88,100:050505&height=120&section=footer&animation=twinkling"/>
+root@security:~$ echo "Stay curious. Stay ethical."
 
+🔐 BUILD • BREAK • UNDERSTAND • SECURE
 
-
-
-
-
-
-
-<br>
-
-
-
-
-
-
-
-</div>
-⚔️ Current Mission
-[████████████████████░░] 90%
-
-> Learn cybersecurity
-> Build security tools
-> Practice in legal labs
-> Solve CTF challenges
+</div>> Solve CTF challenges
 > Study vulnerabilities
 > Improve defensive security
 > Document everything
