@@ -1,16 +1,20 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:00ff88,100:050505&height=220&section=header&text=CYBERSECURITY&fontSize=55&fontColor=00ff88&animation=twinkling&fontAlignY=35&desc=Security%20Research%20%7C%20Ethical%20Hacking%20%7C%20Red%20Team&descAlignY=58&descColor=ffffff&descSize=18"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=700&color=00FF88&center=true&vCenter=true&width=850&lines=%24+whoami;Cybersecurity+Researcher;Ethical+Hacker;Penetration+Testing+Enthusiast;Web+Security+Researcher;CTF+Player;Security+Automation+Developer;Always+Learning+%F0%9F%94%90" /> <br> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00ff88&label=PROFILE+VISITORS"/> </div>
-> ./identity.sh
-┌──[[https://github.com/rishabhh077]─[~/profile]
-└─$ ./identity.sh
+GitHub - https://github.com/rishabhh077
 
-[+] Name       : Rishabh Prajapati
-[+] Role       : Cybersecurity Researcher
-[+] Specialty  : Ethical Hacking & Security
-[+] Environment: Linux / Kali Linux
-[+] Languages  : Python / Bash / JavaScript / SQL
-[+] Focus      : Offensive & Defensive Security
-[+] Status     : ONLINE
-[+] Mission    : Learn • Research • Build • Secure
+. <img width="31" height="31" alt="image" src="https://github.com/user-attachments/assets/44c511f0-67ca-490b-ba1e-e7c4996c1b26" />
+ Name       : Rishabh Prajapati
+<img width="31" height="31" alt="image" src="https://github.com/user-attachments/assets/a0601fa2-5593-4654-81bd-0b65cff0bd58" />
+ Role       : Cybersecurity Researcher
+<img width="31" height="31" alt="image" src="https://github.com/user-attachments/assets/38f5e7a5-a3f5-4025-848f-8dd68849fcfd" />
+ Specialty  : Ethical Hacking & Security
+<img width="31" height="31" alt="image" src="https://github.com/user-attachments/assets/6fe824da-257e-4957-a3e7-0b25a519306e" />
+ Environment: Linux / Kali Linux
+<img width="31" height="31" alt="image" src="https://github.com/user-attachments/assets/6e7e3a58-1e30-449a-98ea-72de968566d3" />
+ Languages  : Python / Bash / JavaScript / SQL
+<img width="31" height="31" alt="image" src="https://github.com/user-attachments/assets/185b87d2-f097-42e4-9843-429c733ab76b" />
+ Focus      : Offensive & Defensive Security
+ Status     : ONLINE
+ Mission    : Learn • Research • Build • Secure
 
 > cat about_me.txt
 
