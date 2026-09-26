@@ -328,10 +328,8 @@ Practical experimentation through CTFs, security labs and development projects.
 
 <br><br>
 
-```bash
-root@security:~$ echo "Stay curious. Stay ethical."
-Stay curious. Stay ethical.
-```
+<img src="https://img.shields.io/badge/STAY-CURIOUS-00d9ff?style=for-the-badge&labelColor=0d1117" alt="Stay curious"/>
+<img src="https://img.shields.io/badge/STAY-ETHICAL-a855f7?style=for-the-badge&labelColor=0d1117" alt="Stay ethical"/>
 
 **BUILD • BREAK • UNDERSTAND • SECURE**
 
