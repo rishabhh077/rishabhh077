@@ -32,11 +32,6 @@
 <!-- ============================== IDENTITY ============================== -->
 <div align="center">
 
-```bash
-┌──[rishabhh077@kali]─[~/profile]
-└─$ cat identity.txt
-```
-
 <table>
 <tr>
 <td width="190">🛡️ &nbsp;<b>Role</b></td>
@@ -237,9 +232,8 @@ Practical experimentation through CTFs, security labs and development projects.
 
 <br><br>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=rishabhh077&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub trophies"/>
-</a>
+<a href="https://github.com/rishabhh077?tab=followers"><img src="https://img.shields.io/github/followers/rishabhh077?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=0d1117&color=a855f7" alt="GitHub followers"/></a>
+<a href="https://github.com/rishabhh077?tab=repositories"><img src="https://img.shields.io/badge/Open%20Source-Contributor-ff9f1c?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0d1117" alt="Open source contributor"/></a>
 
 </div>
 
@@ -263,8 +257,13 @@ Practical experimentation through CTFs, security labs and development projects.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rishabhh077&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=a855f7&text_color=c9d1d9&ring_color=ff4d94" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhh077&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" alt="Top languages"/>
+<img src="https://raw.githubusercontent.com/rishabhh077/rishabhh077/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="49%" alt="GitHub profile details"/>
+<img src="https://raw.githubusercontent.com/rishabhh077/rishabhh077/main/profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub stats"/>
+
+<img src="https://raw.githubusercontent.com/rishabhh077/rishabhh077/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Top languages by repository"/>
+<img src="https://raw.githubusercontent.com/rishabhh077/rishabhh077/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Top languages by commits"/>
+
+<img src="https://raw.githubusercontent.com/rishabhh077/rishabhh077/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="98%" alt="Productive time"/>
 
 <br>
 
