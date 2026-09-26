@@ -251,7 +251,13 @@ Practical experimentation through CTFs, security labs and development projects.
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:00ff88,100:050505&height=2&section=header" width="100%" alt="divider"/>
+## 🐍 Watch My Contributions Get Eaten
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/simplysandeepp/simplysandeepp/output/github-contribution-grid-snake-dark.svg" width="96%" alt="Contribution Snake"/>
+
+</div>
 <!-- ============================== PHILOSOPHY ============================== -->
 ## 🧠 Security Mindset
 
