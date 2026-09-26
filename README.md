@@ -263,8 +263,6 @@ Practical experimentation through CTFs, security labs and development projects.
 <img src="https://raw.githubusercontent.com/rishabhh077/rishabhh077/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Top languages by repository"/>
 <img src="https://raw.githubusercontent.com/rishabhh077/rishabhh077/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Top languages by commits"/>
 
-<img src="https://raw.githubusercontent.com/rishabhh077/rishabhh077/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="98%" alt="Productive time"/>
-
 <br>
 
 <img src="https://streak-stats.demolab.com?user=rishabhh077&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=ff4d94&fire=ff9f1c&currStreakLabel=00d9ff&currStreakNum=ffffff&sideLabels=c9d1d9&sideNums=ffffff&dates=8b949e" alt="GitHub streak"/>
