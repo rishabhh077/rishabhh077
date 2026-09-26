@@ -242,11 +242,11 @@ Practical experimentation through CTFs, security labs and development projects.
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhh077&bg_color=050505&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/rishabhh077/rishabhh077/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishabhh077/rishabhh077/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishabhh077/rishabhh077/output/github-contribution-grid-snake.svg"/>
+  <img alt="Animated snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/rishabhh077/rishabhh077/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
 
 </div>
 
