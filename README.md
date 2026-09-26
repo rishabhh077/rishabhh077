@@ -257,11 +257,11 @@ Practical experimentation through CTFs, security labs and development projects.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rishabhh077/rishabhh077/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="49%" alt="GitHub profile details"/>
-<img src="https://raw.githubusercontent.com/rishabhh077/rishabhh077/main/profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub stats"/>
+<img src="https://raw.githubusercontent.com/rishabhh077/rishabhh077/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="405" height="238" alt="GitHub profile details"/>
+<img src="https://raw.githubusercontent.com/rishabhh077/rishabhh077/main/profile-summary-card-output/tokyonight/3-stats.svg" width="405" height="238" alt="GitHub stats"/>
 
-<img src="https://raw.githubusercontent.com/rishabhh077/rishabhh077/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Top languages by repository"/>
-<img src="https://raw.githubusercontent.com/rishabhh077/rishabhh077/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Top languages by commits"/>
+<img src="https://raw.githubusercontent.com/rishabhh077/rishabhh077/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="405" height="238" alt="Top languages by repository"/>
+<img src="https://raw.githubusercontent.com/rishabhh077/rishabhh077/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="405" height="238" alt="Top languages by commits"/>
 
 <br>
 
