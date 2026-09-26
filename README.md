@@ -30,16 +30,51 @@
 ```bash
 ┌──[rishabhh077@kali]─[~/profile]
 └─$ cat identity.txt
-
-  [+] Role         : Cybersecurity Researcher
-  [+] Specialty    : Ethical Hacking / Penetration Testing
-  [+] Focus        : Web Security / Network Security / OSINT
-  [+] Environment  : Linux / Kali Linux
-  [+] Languages    : HTML / CSS / JavaScript / C / Python
-  [+] Location     : Greater Delhi
-  [+] Status       : ONLINE
-  [+] Mission      : Learn • Research • Build • Secure
 ```
+
+<table>
+<tr>
+<td width="190">🛡️ &nbsp;<b>Role</b></td>
+<td><b>Cybersecurity Researcher</b></td>
+</tr>
+<tr>
+<td>🎯 &nbsp;<b>Specialty</b></td>
+<td>Ethical Hacking &nbsp;•&nbsp; Penetration Testing</td>
+</tr>
+<tr>
+<td>🔍 &nbsp;<b>Focus</b></td>
+<td>
+<img src="https://img.shields.io/badge/Web%20Security-050505?style=flat-square&logo=owasp&logoColor=00ff88" alt="Web Security"/>
+<img src="https://img.shields.io/badge/Network%20Security-050505?style=flat-square&logo=cisco&logoColor=00ff88" alt="Network Security"/>
+<img src="https://img.shields.io/badge/OSINT-050505?style=flat-square&logo=maltego&logoColor=00ff88" alt="OSINT"/>
+</td>
+</tr>
+<tr>
+<td>🐧 &nbsp;<b>Environment</b></td>
+<td>
+<img src="https://img.shields.io/badge/Linux-050505?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-050505?style=flat-square&logo=kalilinux&logoColor=557C94" alt="Kali Linux"/>
+</td>
+</tr>
+<tr>
+<td>💻 &nbsp;<b>Languages</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=html,css,js,c,python&theme=dark" height="34" alt="HTML CSS JavaScript C Python"/>
+</td>
+</tr>
+<tr>
+<td>📍 &nbsp;<b>Location</b></td>
+<td>Greater Delhi, India</td>
+</tr>
+<tr>
+<td>🟢 &nbsp;<b>Status</b></td>
+<td><img src="https://img.shields.io/badge/ONLINE-00ff88?style=flat-square&labelColor=050505&logo=statuspage&logoColor=00ff88" alt="Online"/></td>
+</tr>
+<tr>
+<td>🚀 &nbsp;<b>Mission</b></td>
+<td><code>Learn</code> &nbsp;→&nbsp; <code>Research</code> &nbsp;→&nbsp; <code>Build</code> &nbsp;→&nbsp; <code>Secure</code></td>
+</tr>
+</table>
 
 </div>
 
