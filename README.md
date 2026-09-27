@@ -3,7 +3,7 @@
      Palette: cyan #00d9ff · purple #a855f7 · pink #ff4d94 · orange #ff9f1c · yellow #ffd166 · green #00ff88
      ============================================================ -->
 
-<!-- ============================== HEADE ============================== -->
+<!-- ============================== HEADER. ============================== -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0e4f6e,65:6a11cb,100:0d1117&height=260&section=header&text=RISHABH%20PRAJAPATI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CYBERSECURITY%20%E2%80%A2%20ETHICAL%20HACKING%20%E2%80%A2%20PENETRATION%20TESTING&descAlignY=62&descSize=18&descColor=00d9ff" width="100%" alt="Rishabh Prajapati - Cybersecurity, Ethical Hacking, Penetration Testing"/>
