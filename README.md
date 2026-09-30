@@ -1,5 +1,5 @@
 <!-- ============================================================
-     RISHABH PRAJAPATI · CYBERSECURITY PRLE README
+     RISHABH PRAJAPATI · CYBERSECURITY PRLE REAE
      Palette: cyan #00d9ff · purple #a855f7 · pink #ff4d94 · orange #ff9f1c · yellow #ffd166 · green #00ff88
      ============================================================ -->
 
