@@ -41,6 +41,12 @@
 
 <img src="https://streak-stats.demolab.com?user=rishabhh077&theme=dark&hide_border=true&background=0d1117&ring=ff4d94&fire=ff9f1c&currStreakLabel=00d9ff" alt="GitHub streak"/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishabhh077/rishabhh077/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishabhh077/rishabhh077/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/rishabhh077/rishabhh077/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
 **BUILD • BREAK • UNDERSTAND • SECURE**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0e4f6e,65:6a11cb,100:0d1117&height=100&section=footer" width="100%" alt=""/>
