@@ -1,9 +1,14 @@
 name: Profile README Automation
 
 on:
-  # refresh every 12 hours
+  # refresh every hour
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 * * * *"
+  # refresh whenever the profile repo itself is updated
+  push:
+    branches: [main]
+    paths-ignore:
+      - "profile-summary-card-output/**"
   # allow manual runs from the Actions tab
   workflow_dispatch:
 
