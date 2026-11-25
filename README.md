@@ -19,7 +19,7 @@
 
 > 💬 *"I build security tools, experiment with AI, and ship them to the web."* — B.Tech CSE (Cybersecurity) student at LIET, Greater Noida · Cyber Security Analyst Intern @ Thiranex
 
-## 🚀 Projects
+## 🚀 Projecs
 
 | Project | What it does |
 | :-- | :-- |
